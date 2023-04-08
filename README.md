@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋 My name is Ji Won Kwon (Wonny) 🙂 
+
+### 🍎 Apps
+* 한판붙자 | [AppStore](https://apps.apple.com/in/app/%ED%95%9C%ED%8C%90-%EB%B6%99%EC%9E%90/id1639050361)
+
+### 💡 WWDC 2022 Student challenge winner 
+* ZOOchestra | [github](https://github.com/wonny1012/WWDC-2022-Student-Challenge)
+
+### 💻 Activities
+Apple Developer Academy @ POSTECH | [github](https://github.com/DeveloperAcademy-POSTECH)
+
 
 <!--
 **wonny1012/wonny1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
