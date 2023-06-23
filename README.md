@@ -9,7 +9,7 @@
 ### 💻 Activities
 Apple Developer Academy @ POSTECH | [github](https://github.com/DeveloperAcademy-POSTECH)
 
-
+###notion rnjswldnjs1012@g.hongik.ac.kr
 <!--
 **wonny1012/wonny1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
