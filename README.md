@@ -26,8 +26,15 @@
 
 ### 🍎 Apps
 * 한판붙자 | [AppStore](https://apps.apple.com/in/app/%ED%95%9C%ED%8C%90-%EB%B6%99%EC%9E%90/id1639050361)
+* Postie(포스티) | [AppStore](https://apps.apple.com/kr/app/포스티-postie/id6478052812)
 
 ## 💡 Awards
+**멋쟁이 사자처럼 최우수상**
+
+*“Postie(포스티)”*
+- 내 손안의 편지함
+<br>
+
 **WWDC 2023  Student challenge winner**
 
 *“Pic Pick! Words!”*
